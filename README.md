@@ -1,0 +1,2 @@
+# Brain-Tumor-Detection-using-Machine-Learning-Algorithms-and-Convolutional-Neural-Network
+This repository contains the code and documentation for a project focused on the early detection of brain tumors using machine learning (ML) algorithms and convolutional neural networks (CNNs). The project utilizes a dataset of MRI images and integrates advanced ML techniques with deep learning to achieve accurate tumor detection.
